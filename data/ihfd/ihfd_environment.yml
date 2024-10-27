@@ -253,4 +253,5 @@ dependencies:
       - et-xmlfile==2.0.0
       - faiss-cpu==1.8.0
       - openpyxl==3.1.5
+      - xlrd==2.0.1
 prefix: /home/paulharford/anaconda3/envs/msc
