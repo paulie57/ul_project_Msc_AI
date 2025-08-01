@@ -1,5 +1,3 @@
 ptx*
 analysis/processed_data/analysed_data/archive/*
-data/met_eireann/eda/archive/*
-data/nas/archive/*
-data/ihfd/archive/*
+**/archive/
